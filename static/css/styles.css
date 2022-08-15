@@ -1,0 +1,11 @@
+.header {
+  background-image: url('../images/alexander-schimmeck-TeR5buqngGo-unsplash.jpg');
+  background-size: cover;
+  position: relative;
+
+  color: rgb(252, 245, 233);
+}
+
+.flash-msg {
+  padding-top: 2em;
+}
